@@ -14,41 +14,6 @@ A simple counter app built with React and Vite, styled with Tailwind CSS.
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or later recommended)
-- npm (comes with Node.js)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the project directory
-cd your-repo-name
-
-# Install dependencies
-npm install
-```
-
-### Running Locally
-
-```bash
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
-### Building for Production
-
-```bash
-npm run build
-```
-
-The optimized build output will be in the `dist/` folder.
 
 ## Project Structure
 
